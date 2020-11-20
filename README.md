@@ -9,3 +9,9 @@ This may not be perfect. I am not good with Graphics or GTK themes.
 
 If you think something can be improved please do a Pull request I'll be happy to include the changes.
 
+## Todo
+- [ ] make changes to accent colors 
+- [ ] make changes to makefile
+- [ ] configure theme name in make file
+
+
